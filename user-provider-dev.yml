@@ -21,4 +21,4 @@ eureka:
 server:
   port: 18081
   
-address: hangzhou
+address: beijing
